@@ -7,7 +7,6 @@ Hello! Welcome to my sample analysis for VendVentures, a Vending Machine company
 **Dataset assumptions:**
 - Contains point in time data as of June 1st 2023, Deals Won run through the end of May and the Discovery and Pipeline opportunties run through end of December 2023
 - The dataset needs to be analyzed quickly and the C-suite is looking for data-driven reccomendations where clarity on the dataset cannot be investigated (i.e. updating null values)
-- The delivery platform launched in 2022
 
 The following analysis will look to showcase the following skillset:
 - 🎯 **Structuring Problems:** Demonstrate how I structure my thoughts and approach problems 
