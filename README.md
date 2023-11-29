@@ -14,7 +14,7 @@ The following analysis will look to showcase the following skillset:
 - 📊 **Data Analytics Knowledge:** Ability to utilize 🐍 python and 🐼 pandas to clean and analyze data
 - 🔥 **Providing Data-driven Insights:** Ability to dive into the root cause and provide actionable recommendations
 
-[VendVentures Sales Optimization Analysis](https://github.com/Vibhesh91/SellCollect-Tableau-Showcase/blob/0089b7b1df7d8f7658a7eb381791301ad66ab734/SellCollect%20Seller%20Onboarding%20Exercise.ipynb](https://github.com/vpp0991/VendVentures---Sales-Optimization-Case-Study/blob/main/VendVentures%20Sales%20Optimization%20Case%20Study.ipynb) <br>
+[VendVentures Sales Optimization Analysis](https://github.com/vpp0991/VendVentures---Sales-Optimization-Case-Study/blob/main/VendVentures%20Sales%20Optimization%20Case%20Study.ipynb) <br>
 _Note: Best viewed on Google Chrome_
 
 _Disclaimer: This portfolio is for illustrative purposes. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page. All files were produced on Mac OS_
